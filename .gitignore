@@ -1,0 +1,8 @@
+# IDE files
+.idea/**
+
+# Auto generated
+__pycache__/**
+
+# Virtual environment
+venv/**
