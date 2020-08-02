@@ -6,3 +6,6 @@ __pycache__/**
 
 # Virtual environment
 venv/**
+
+# Python notebooks
+notebooks/.ipynb_checkpoints/**
